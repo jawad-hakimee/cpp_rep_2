@@ -3,7 +3,8 @@
 using namespace std;
 
 int main(){
-    int a,b,c, sum,ave;
+    float a,b,c, sum,ave;
+
 
     cin >>a>>b>>c;
     sum = a+b+c;
