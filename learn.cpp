@@ -9,6 +9,6 @@ int main(){
     cin >>a>>b>>c;
     sum = a+b+c;
     ave = sum/3;
-    cout<<"Sum = "<<sum<<'\n'<<"Ave = "<< ave <<endl;
+    cout<<"Sum = "<<sum<<'\t'<<"Ave = "<< ave <<endl;
 
 }
