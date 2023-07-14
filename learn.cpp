@@ -3,12 +3,11 @@
 using namespace std;
 
 int main(){
-    int a,b,c, sum;
+    int a,b,c, sum,ave;
 
     cin >>a>>b>>c;
-    
-    
     sum = a+b+c;
-    cout<<"Sum = "<<sum<<endl;
+    ave = sum/3;
+    cout<<"Sum = "<<sum<<'\n'<<"Ave = "<< ave <<endl;
 
 }
